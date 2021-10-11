@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FakeHichu
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning coding
-- 📫 How to reach me - u don't try
+> - Hi, I’m Hichu (FakeHichu cuz someone already has - duh 🙄)
+> - I’m interested in nothing
+> - I’m currently learning coding
+
 
 <!---
 FakeHichu/FakeHichu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
