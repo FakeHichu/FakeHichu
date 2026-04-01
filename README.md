@@ -1,6 +1,5 @@
-> - Hi, I’m Hichu (FakeHichu cuz someone already has - duh 🙄)
-> - I’m interested in nothing
-> - I’m currently learning coding
+> I am a super qualified cyber expert
+> stay away for your own safety.
 
 
 <!---
