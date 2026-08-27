@@ -1,8 +1,15 @@
-> I am a super qualified cyber expert.
-> stay away for your own safety.
+<table>
+<tr>
+<td valign="top">
 
+<img width="300" height="300" alt="toji" src="https://github.com/user-attachments/assets/c9a8409a-6e3c-46ed-b2f7-fcadac531fe7" />
 
-<!---
-FakeHichu/FakeHichu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</td>
+
+<td valign="top">
+
+<img src="./catppuccin-terminal.svg" width="520" alt="FakeHichu terminal profile" />
+
+</td>
+</tr>
+</table>
