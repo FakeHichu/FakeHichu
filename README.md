@@ -8,7 +8,7 @@
 
 <td valign="top">
 
-<img src="./catppuccin-terminal.svg" width="520" alt="FakeHichu terminal profile" />
+<img src="./terminal.svg" width="520" alt="FakeHichu terminal profile" />
 
 </td>
 </tr>
